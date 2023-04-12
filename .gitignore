@@ -1,0 +1,8 @@
+**/*.obj
+**/*.iobj
+**/*.tlog
+**/*.lastbuildstate
+.vs/
+x64/Release/logs/
+x64/Debug/logs/
+src/sentry-native/

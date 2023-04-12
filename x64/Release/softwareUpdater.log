@@ -1,0 +1,10 @@
+﻿  softwareUpdater.cpp
+D:\JayCode\projects\softwareUpdater\softwareUpdater.cpp(95,32): warning C4101: 'e': unreferenced local variable
+D:\JayCode\projects\softwareUpdater\softwareUpdater.cpp(135,40): warning C4101: 'e': unreferenced local variable
+D:\JayCode\projects\softwareUpdater\softwareUpdater.cpp(163,44): warning C4101: 'e': unreferenced local variable
+  Generating code
+  1 of 3940 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  softwareUpdater.vcxproj -> D:\JayCode\projects\softwareUpdater\x64\Release\softwareUpdater.exe

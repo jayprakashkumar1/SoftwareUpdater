@@ -1,0 +1,3 @@
+﻿  softwareUpdater.cpp
+D:\JayCode\projects\softwareUpdater\softwareUpdater.cpp(34,40): warning C4101: 'e': unreferenced local variable
+  softwareUpdater.vcxproj -> D:\JayCode\projects\softwareUpdater\Debug\softwareUpdater.exe

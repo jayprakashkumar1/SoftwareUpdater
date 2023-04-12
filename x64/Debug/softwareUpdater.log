@@ -1,0 +1,5 @@
+﻿  softwareUpdater.cpp
+D:\JayCode\projects\softwareUpdater\src\logger\logger.hpp(10,10): fatal error C1083: Cannot open include file: 'spdlog/spdlog.h': No such file or directory
+  logger.cpp
+D:\JayCode\projects\softwareUpdater\src\logger\logger.hpp(10,10): fatal error C1083: Cannot open include file: 'spdlog/spdlog.h': No such file or directory
+  Generating Code...
